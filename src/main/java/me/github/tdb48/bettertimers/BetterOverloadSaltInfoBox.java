@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.bettertimers;
+package me.github.tdb48.bettertimers;
 
 import net.runelite.api.Client;
 import net.runelite.client.ui.overlay.infobox.InfoBox;
